@@ -1,0 +1,6 @@
+{
+  "name": "Infinity quran",
+  "description": "Read, Listen, Learn, and Memorize the Holy Quran with offline translations, prayer times, Qibla compass, Tasbih, and personalized progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
